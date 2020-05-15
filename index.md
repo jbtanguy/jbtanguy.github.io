@@ -16,8 +16,8 @@ Pour me suivre :
 - [LinkedIn](www.linkedin.com/in/jean-baptiste-tanguy-a08977118)
 - [Github](https://github.com/jbtanguy/)
 
-Ma thèse
---------
+### Ma thèse
+
 Financé par la région Île-de-France ([DIM <i>Sciences du Texte et Connaissances nouvelles</i>](http://www.dim-humanites-numeriques.fr/)), et en partenariat avec 
 la [Bibliothèque Mazarine](https://www.bibliotheque-mazarine.fr/fr/), je réalise une thèse à mis chemin entre le Traitement Automatique des Langues Naturelles (TALN) et 
 les Humanités Numériques - thèse dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée [Karine Abiven](https://paris-sorbonne.academia.edu/KarineAbiven) et 
@@ -34,12 +34,12 @@ Il s'agit finalement de proposer une réflexion épistémologique sur la nature 
 leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité sur le TALN.
 
 
-Mes domaines de recherches
---------------------------
+### Mes intérêts scientifiques
+
 - OCR
 - évaluation non-supervisée
 - langue non standard : impacts de la variation et du manque de ressources
 
-Mes publications
-----------------
+### Mes publications
+
 À venir.
