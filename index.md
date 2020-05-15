@@ -5,7 +5,7 @@ description: Jean-Baptiste Tanguy, doctorant en Traitement Automatique des Langu
 keywords: Tanguy, NLP, TAL, Humanités Numériques, Digital Humanities, OCR, français pré-classique, pre-classical French, Mazarinades
 ---
 
-Après une [khâgne B/L](http://www.prepabl.fr/spip.php?rubrique4) et une première année à l'[ENSC](https://ensc.bordeaux-inp.fr/fr) (<i>École Nationale Supérieure
+Après une [khâgne B/L](http://www.prepabl.fr/spip.php?rubrique9) et une première année à l'[ENSC](https://ensc.bordeaux-inp.fr/fr) (<i>École Nationale Supérieure
 de Cognitique</i>), j'ai été diplômé du [Master Langue et Informatique](http://vof.paris-sorbonne.fr/fr/index/master-XB/arts-lettres-langues-ALL/master-sciences-du-langage-langue-et-informatique-program-mscla1l-613/m2-sclan-langue-et-informatique-subprogram-m2lg13-19.html) de Sorbonne Université. 
 Je réalise actuellement un doctorat au sein de la même université.
 
