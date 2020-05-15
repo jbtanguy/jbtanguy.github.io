@@ -11,6 +11,8 @@ de Cognitique</i>), j'ai été diplômé du [Master Langue et Informatique](http
 [LinkedIn](www.linkedin.com/in/jean-baptiste-tanguy-a08977118)
 [Github repo](https://github.com/jbtanguy/)
 
+<a href="./assets/cv_jbtanguy_fr.pdf" download="cv_jbtanguy">CV</a>
+
 Actuellement
 ============
 
