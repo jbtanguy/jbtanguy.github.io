@@ -10,22 +10,26 @@ de Cognitique</i>), j'ai été diplômé du [Master Langue et Informatique](http
 Je réalise actuellement un doctorat au sein de la même université.
 
 
-Pour télécharger mon CV (français) <a href="./assets/cv_jbtanguy_fr.pdf" download="cv_jbtanguy">cliquez ici</a>.
+Pour télécharger mon CV (français), <a href="./assets/cv_jbtanguy_fr.pdf" download="cv_jbtanguy">cliquez ici</a>.
 
 Pour me suivre :
 - [LinkedIn](www.linkedin.com/in/jean-baptiste-tanguy-a08977118)
-- [Github repo](https://github.com/jbtanguy/)
+- [Github](https://github.com/jbtanguy/)
 
 Ma thèse
 --------
 Financé par la région Île-de-France ([DIM <i>Sciences du Texte et Connaissances nouvelles</i>](http://www.dim-humanites-numeriques.fr/)), et en partenariat avec 
-la [Bibliothèque Mazarine](https://www.bibliotheque-mazarine.fr/fr/), je réalise une thèse à mis chemin entre le Traitement Automatique des Langues Naturelles et 
-les Humanités Numériques (TALN) - thèse dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée [Karine Abiven](https://paris-sorbonne.academia.edu/KarineAbiven) et 
-[Gaël Lejeune](https://www.lejeunegael.fr/). Le travail commence par le rassemblement et la numérisation d'imprimés du XVIIème siècle : les Mazarinades, publiées en 
+la [Bibliothèque Mazarine](https://www.bibliotheque-mazarine.fr/fr/), je réalise une thèse à mis chemin entre le Traitement Automatique des Langues Naturelles (TALN) et 
+les Humanités Numériques - thèse dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée [Karine Abiven](https://paris-sorbonne.academia.edu/KarineAbiven) et 
+[Gaël Lejeune](https://www.lejeunegael.fr/). 
+
+Le travail commence par le rassemblement et la numérisation d'imprimés du XVIIème siècle : les Mazarinades, publiées en 
 France pendant la Fronde (1648-1653). Les premiers objectifs sont :
 - d'acquérir les données textuelles de ces imprimés numérisés par OCR (<i>Optical Character Recognition</i>, ou <i>Reconnaissance Optique de Caractères</i> en français) ;
 - de les structurer dans une base de données tout en les augmentant de métadonnées ;
 - d'exploirer ce nouveau corpus numérique.
+
+
 Il s'agit finalement de proposer une réflexion épistémologique sur la nature des données en Sciences Humaines et Sociales : leur disponibilité, leur structuration, 
 leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité sur le TALN.
 
