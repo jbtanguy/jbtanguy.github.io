@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos
+title: Jean-Baptiste Tanguy
 description: Jean-Baptiste Tanguy, doctorant en Traitement Automatique des Langues à Sorbonne Université
 keywords: Tanguy, NLP, TAL, Humanités Numériques, Digital Humanities, OCR, français pré-classique, pre-classical French, Mazarinades
 ---
