@@ -19,8 +19,10 @@ Pour me suivre :
 ### Ma thèse
 
 Financé par la région Île-de-France ([DIM <i>Sciences du Texte et Connaissances nouvelles</i>](http://www.dim-humanites-numeriques.fr/)), et en partenariat avec 
-la [Bibliothèque Mazarine](https://www.bibliotheque-mazarine.fr/fr/), je réalise une thèse à mis chemin entre le Traitement Automatique des Langues Naturelles (TALN) et 
-les Humanités Numériques - thèse dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée [Karine Abiven](http://www.iufrance.fr/les-membres-de-liuf/membre/1833-karine-abiven.html) et 
+la [Bibliothèque Mazarine](https://www.bibliotheque-mazarine.fr/fr/), je réalise ma thèse au sein du projet 
+[Antonomaz](http://stih-sorbonne-universite.fr/dokuwiki/doku.php?id=antonomaz). Cette thèse est à mi-chemin entre le Traitement 
+Automatique des Langues Naturelles (TALN) et les Humanités Numériques - thèse dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée 
+[Karine Abiven](http://www.iufrance.fr/les-membres-de-liuf/membre/1833-karine-abiven.html) et 
 [Gaël Lejeune](https://www.lejeunegael.fr/). 
 
 Le travail commence par le rassemblement et la numérisation d'imprimés du XVIIème siècle : les Mazarinades, publiées en 
