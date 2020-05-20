@@ -12,6 +12,7 @@ Je réalise actuellement un doctorat au sein de la même université.
 
 Pour télécharger mon CV (français), <a href="./assets/cv_jbtanguy_fr.pdf" download="cv_jbtanguy">cliquez ici</a>.
 
+
 Pour me suivre :
 - [LinkedIn](www.linkedin.com/in/jean-baptiste-tanguy-a08977118)
 - [Github](https://github.com/jbtanguy/)
