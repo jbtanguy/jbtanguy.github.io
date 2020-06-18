@@ -44,7 +44,7 @@ leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité 
 
 ### Mes publications
 
-## Actes de conférence
+#### Actes de conférence
 - Jean-Baptiste Tanguy. Exploiter des modèles de langue pour évaluer des sorties de logiciels d’OCR pour des documents français du XVIIe siècle. <i>6e conférence conjointe Journées d'Études sur la Parole (JEP, 31e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition)</i>, 2020, Nancy, France. pp.205-217. ⟨hal-02786201v2⟩
 
 ### Evenements
