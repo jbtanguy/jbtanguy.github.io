@@ -49,33 +49,33 @@ leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité 
 
 ### Evenements
 
-- 13/06/20	Virtuel – COVID-19	Séminaire	Intervenant	« Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)
-- 08/06/20	Virtuel – COVID-19	Conférence	Participant	Eternal 2020
-- 08/06/20	Virtuel – COVID-19	Conférence	Intervenant	RECITAL 2020 (asynchrone) : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)
-- 28/05/20	Virtuel – COVID-19	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Il a cru j'étais un second choix » : analyse syntaxique et sociolinguistique des constructions [CV. Ø CV.] en français parlé contemporain » (Auphélie Ferreira)
-- 14/05/20	Virtuel – COVID-19	Séminaire	Participant	Séminaire Linguistique Computationnelle : « HIPE – Shared Task, identification d’entités nommées dans des journaux historiques océrisés (adaptation de SEM)  » (Yoann Dupont)
-- 07/05/20	Virtuel – COVID-19	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Knoledge Graph Embedding - RDF2Vec » (Vincent Lully)
-- 30/04/20	Virtuel – COVID-19	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Visualisation du réseau sémantique des unités mono et polylexicales d’un dictionnaire électronique » (Lichao Zhu)
-- 16/04/20	Virtuel – COVID-19	DOJO	Participant	DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 3/3 (Tian Tian et Yoann Dupont)
-- 09/04/20	Virtuel – COVID-19	DOJO	Participant	DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 2/3 (Tian Tian)
-- 02/04/20	Virtuel – COVID-19	DOJO	Participant	DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 1/3 (Tian Tian)
-- 26/03/20	Virtuel – COVID-19	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Classification des dialectes arabes » (Dhaou Ghoul)
-- 19/03/20	Virtuel – COVID-19	DOJO	Participant	DOJO Machine Learning : « Apprentissage automatique supervisé avec réseaux de neurones » (Tian Tian et Yohann Dupont)
-- 12/03/20	Serpente, Paris	DOJO	Participant	DOJO Machine Learning : « Apprentissage automatique supervisé avec réseaux de neurones » (Tian Tian)
-- 27/02/20	Serpente, Paris	Séminaire	Participant	Séminaire Linguistique Computationnelle : « CamemBERT: Yet Another Cheese Strategy for Attaigning State-of-the-Art » (Yoann Dupont)
-- 05/02/20	Serpente, Paris	Séminaire	Participant	Séminaire OBVIL : « Humanités numériques : la correspondance des écrivains à l'ère du numérique » (Nicholas Cronk et Ruggero Scuito, Oxford)
-- 31/01/20	Serpente, Paris	Atelier	Participant	Ateliers Numériques de l’OBVIL : « Moteur de recherche intertextuel "Tesserae" (et sa version française "Tesserae-OBVIL") : trouver des similarités entre des poèmes français ou bien entre des poèmes français et latins » (James Gawley)
-- 23/01/20	Serpente, Paris	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Etudes des Mèmes textuels : hypothèses de travail » (Lichao Zhu)
-- 16/01/20	Serpente, Paris 	Workshop	Intervenant	Journée d'études SIBON : Sociologie et Informatique
-- 13/01/19	Serpente, Paris	Séminaire	Participant	Séminaire doctoral (ED5) : Questions de méthodes et numérique pour les thèses en SHS : « La constitution des corpus (les questions scientifiques et méthodologiques suscitées par la constitution de corpus) » (Séance 1)
-- 19/12/19	Serpente, Paris	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Redescription en analyse de données : exemples variés » (François Rioult)
-- 04/12/19	Serpente, Paris	Séminaire	Participant	Séminaire OBVIL : « Détection d'entités dans le domaine biomédical » (Pierre Zweigenbaum)
-- 27/11/19	Serpente, Paris	Séminaire	Participant	Séminaire OBVIL : « Palmyre de La Touanne et Côme Saignol : exposés de l'état d'avancement de leurs travaux de recherche et de leur thèse »
-- 21/11/19	Sorbonne, Paris	Conférence	Participant	L'hypothèse de la compositionnalité en sémantique (Philippe De Groote)
-- 20/11/19	Serpente, Paris	Séminaire	Participant	Séminaire OBVIL : « Les entités nommées, du prétraitement à la sémantique, théorie et pratique » (Damien Nouvel)
-- 18/11/19 → 19/11/19	Ecole des Chartes, Paris	Formation	Participant	« Chaîne de traitement des données textuelles - Atelier 1 »
-- 14/11/19	Serpente, Paris	Séminaire	Participant	Séminaire Linguistique Computationnelle : « Adaptation au domaine et combinaison de modèles pour l'annotation de textes multi-sources et multi-domaines » (Tian Tian)
-- 13/11/19	Serpente, Paris	Séminaire	Participant	Séminaire OBVIL : « Construction, exploitation et exploration de ressources d’expressions polylexicales » (Mathieu Constant)
-- 28/10/19 → 20/10/19	IRHT, Campus Condorcet, Aubervilliers	Formation	Participant	Atelier Nouveaux Outils « Du parchemin à la fouille de données » - COSME2
-- 23/10/19	Serpente, Paris	Séminaire	Participant	Séminaire OBVIL : « Acquisition terminologique et fouille de texte » (Thierry Hamon)
-- 12/09/19	Serpente, Paris	Séminaire	Intervenant	Séminaire Linguistique Computationnelle : « Rencontre Minuit Science »
+- <b>« Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 13/06/20, Virtuel – COVID-19
+- <b>Eternal 2020, Participant, 08/06/20, Virtuel – COVID-19
+- <b>RECITAL 2020 (asynchrone) : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 08/06/20, Virtuel – COVID-19
+- <b>Séminaire Linguistique Computationnelle : « Il a cru j'étais un second choix » : analyse syntaxique et sociolinguistique des constructions [CV. Ø CV.] en français parlé contemporain » (Auphélie Ferreira)</b>, Participant, 28/05/20, Virtuel – COVID-19
+- <b>Séminaire Linguistique Computationnelle : « HIPE – Shared Task, identification d’entités nommées dans des journaux historiques océrisés (adaptation de SEM)  » (Yoann Dupont)</b>, Participant, 14/05/20, Virtuel – COVID-19
+- <b>Séminaire Linguistique Computationnelle : « Knoledge Graph Embedding - RDF2Vec » (Vincent Lully)</b>, Participant, 07/05/20, Virtuel – COVID-19
+- <b>Séminaire Linguistique Computationnelle : « Visualisation du réseau sémantique des unités mono et polylexicales d’un dictionnaire électronique » (Lichao Zhu)</b>, Participant, 30/04/20, Virtuel – COVID-19
+- <b>DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 3/3 (Tian Tian et Yoann Dupont)</b>, Participant, 16/04/20, Virtuel – COVID-19
+- <b>DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 2/3 (Tian Tian)</b>, Participant, 09/04/20, Virtuel – COVID-19
+- <b>DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 1/3 (Tian Tian)</b>, Participant, 02/04/20, Virtuel – COVID-19
+- <b>Séminaire Linguistique Computationnelle : « Classification des dialectes arabes » (Dhaou Ghoul)</b>, Participant, 26/03/20, Virtuel – COVID-19
+- <b>DOJO Machine Learning : « Apprentissage automatique supervisé avec réseaux de neurones » (Tian Tian et Yohann Dupont)</b>, Participant, 19/03/20, Virtuel – COVID-19
+- <b>DOJO Machine Learning : « Apprentissage automatique supervisé avec réseaux de neurones » (Tian Tian)</b>, Participant, 12/03/20, Serpente, Paris
+- <b>Séminaire Linguistique Computationnelle : « CamemBERT: Yet Another Cheese Strategy for Attaigning State-of-the-Art » (Yoann Dupont)</b>, Participant, 27/02/20, Serpente, Paris
+- <b>Séminaire OBVIL : « Humanités numériques : la correspondance des écrivains à l'ère du numérique » (Nicholas Cronk et Ruggero Scuito, Oxford)</b>, Participant, 05/02/20, Serpente, Paris
+- <b>Ateliers Numériques de l’OBVIL : « Moteur de recherche intertextuel "Tesserae" (et sa version française "Tesserae-OBVIL") : trouver des similarités entre des poèmes français ou bien entre des poèmes français et latins » (James Gawley)</b>, Participant, 31/01/20, Serpente, Paris
+- <b>Séminaire Linguistique Computationnelle : « Etudes des Mèmes textuels : hypothèses de travail » (Lichao Zhu)</b>, Participant, 23/01/20, Serpente, Paris
+- <b>Journée d'études SIBON : Sociologie et Informatique</b>, Intervenant, 16/01/20, Serpente, Paris 
+- <b>Séminaire doctoral (ED5) : Questions de méthodes et numérique pour les thèses en SHS : « La constitution des corpus (les questions scientifiques et méthodologiques suscitées par la constitution de corpus) » (Séance 1)</b>, Participant, 13/01/19, Serpente, Paris
+- <b>Séminaire Linguistique Computationnelle : « Redescription en analyse de données : exemples variés » (François Rioult)</b>, Participant, 19/12/19, Serpente, Paris
+- <b>Séminaire OBVIL : « Détection d'entités dans le domaine biomédical » (Pierre Zweigenbaum)</b>, Participant, 04/12/19, Serpente, Paris
+- <b>Séminaire OBVIL : « Palmyre de La Touanne et Côme Saignol : exposés de l'état d'avancement de leurs travaux de recherche et de leur thèse »</b>, Participant, 27/11/19, Serpente, Paris
+- <b>L'hypothèse de la compositionnalité en sémantique (Philippe De Groote)</b>, Participant, 21/11/19, Sorbonne, Paris
+- <b>Séminaire OBVIL : « Les entités nommées, du prétraitement à la sémantique, théorie et pratique » (Damien Nouvel)</b>, Participant, 20/11/19, Serpente, Paris
+- <b>« Chaîne de traitement des données textuelles - Atelier 1 »</b>b>, Participant, 18/11/19 → 19/11/19, Ecole des Chartes, Paris
+- <b>Séminaire Linguistique Computationnelle : « Adaptation au domaine et combinaison de modèles pour l'annotation de textes multi-sources et multi-domaines » (Tian Tian)</b>, Participant, 14/11/19, Serpente, Paris
+- <b>Séminaire OBVIL : « Construction, exploitation et exploration de ressources d’expressions polylexicales » (Mathieu Constant)</b>, Participant, 13/11/19, Serpente, Paris
+- <b>Atelier Nouveaux Outils « Du parchemin à la fouille de données » (COSME2)</b>b>, Participant, 28/10/19 → 20/10/19, IRHT, Campus Condorcet, Aubervilliers
+- <b>Séminaire OBVIL : « Acquisition terminologique et fouille de texte » (Thierry Hamon)</b>, Participant, 23/10/19, Serpente, Paris
+- <b>Séminaire Linguistique Computationnelle : « Rencontre Minuit Science »</b>, Intervenant, 12/09/19, Serpente, Paris
