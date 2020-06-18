@@ -50,7 +50,7 @@ leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité 
 ### Evenements
 
 - <b>« Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 13/06/20, Virtuel – COVID-19
-- <b>Eternal 2020, Participant, 08/06/20, Virtuel – COVID-19
+- <b>Eternal</b> 2020, Participant, 08/06/20, Virtuel – COVID-19
 - <b>RECITAL 2020 (asynchrone) : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 08/06/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « Il a cru j'étais un second choix » : analyse syntaxique et sociolinguistique des constructions [CV. Ø CV.] en français parlé contemporain » (Auphélie Ferreira)</b>, Participant, 28/05/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « HIPE – Shared Task, identification d’entités nommées dans des journaux historiques océrisés (adaptation de SEM)  » (Yoann Dupont)</b>, Participant, 14/05/20, Virtuel – COVID-19
