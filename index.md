@@ -49,6 +49,7 @@ leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité 
 
 ### Evenements
 
+- <b>Séminaire Linguistique Computationnelle : « Faire face à la variabilité en TAL: pistes épistémologiques et pratiques » (Gaël Lejeune)</b>, Participant, 02/07/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 13/06/20, Virtuel – COVID-19
 - <b>ETeRNAL 2 « Répliquer et étendre pour l’alsacien “Étiquetage en parties du discours de langues peu dotées par spécialisation des plongements lexicaux” » (Alice Millour, Karën Fort et Pierre Magistry)</b>, Participant, 08/06/20, Virtuel – COVID-19
 - <b>ETeRNAL 2 « Que recèlent les données textuelles issues du web ? » (Adrien Barbaresi et Gaël Lejeune)</b>, Participant, 08/06/20, Virtuel – COVID-19
