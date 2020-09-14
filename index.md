@@ -29,7 +29,7 @@ Le travail commence par le rassemblement et la numérisation d'imprimés du XVII
 France pendant la Fronde (1648-1653). Les premiers objectifs sont :
 - d'acquérir les données textuelles de ces imprimés numérisés par OCR (<i>Optical Character Recognition</i>, ou <i>Reconnaissance Optique de Caractères</i> en français) ;
 - de les structurer dans une base de données tout en les augmentant de métadonnées (lemmatisation, POS-tagging et analyse morphologique) ;
-- d'exploirer ce nouveau corpus numérique.
+- d'exploirer ces nouveaux corpus numérique.
 
 
 Il s'agit finalement de proposer une réflexion épistémologique sur la nature des données en Sciences Humaines et Sociales : leur disponibilité, leur structuration, 
@@ -39,7 +39,7 @@ leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité 
 ### Mes intérêts scientifiques
 
 - OCR
-- évaluation non-supervisée
+- logométrie
 - langue non standard : impacts de la variation et du manque de ressources
 
 ### Mes publications
@@ -49,6 +49,7 @@ leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité 
 
 ### Evenements
 
+- <b>Séminaire Linguistique Computationnelle : « Speed Dating de rentrée » </b>, Intervenant/Participant, 10/09/20, Serpente, Paris
 - <b>Séminaire Linguistique Computationnelle : « Faire face à la variabilité en TAL: pistes épistémologiques et pratiques » (Gaël Lejeune)</b>, Participant, 02/07/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 13/06/20, Virtuel – COVID-19
 - <b>ETeRNAL 2 « Répliquer et étendre pour l’alsacien “Étiquetage en parties du discours de langues peu dotées par spécialisation des plongements lexicaux” » (Alice Millour, Karën Fort et Pierre Magistry)</b>, Participant, 08/06/20, Virtuel – COVID-19
