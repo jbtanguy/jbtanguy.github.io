@@ -51,6 +51,7 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 
 ### Evenements
 
+- <b>Masterclass « Communication Grand Public »</b>, Participant, 25/09/20, Espace des sciences Pierre-Gilles de Gennes, Paris
 - <b>Séminaire Linguistique Computationnelle : « Speed Dating de rentrée » </b>, Intervenant/Participant, 10/09/20, Serpente, Paris
 - <b>Séminaire Linguistique Computationnelle : « Faire face à la variabilité en TAL: pistes épistémologiques et pratiques » (Gaël Lejeune)</b>, Participant, 02/07/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 13/06/20, Virtuel – COVID-19
