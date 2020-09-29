@@ -21,7 +21,7 @@ Me suivre :
 Financé par la région Île-de-France ([DIM <i>Sciences du Texte et Connaissances nouvelles</i>](http://www.dim-humanites-numeriques.fr/)), et en partenariat avec 
 la [Bibliothèque Mazarine](https://www.bibliotheque-mazarine.fr/fr/), je réalise ma thèse au sein du projet 
 [Antonomaz](http://stih-sorbonne-universite.fr/dokuwiki/doku.php?id=antonomaz). Cette thèse est à mi-chemin entre le Traitement 
-Automatique des Langues Naturelles (TALN) et les Humanités Numériques - thèse dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée 
+Automatique des Langues Naturelles (TALN) et les Humanités Numériques (HN). Elle est dirigée par [Glenn Roe](http://www.glennroe.net/) et encadrée 
 [Karine Abiven](http://www.iufrance.fr/les-membres-de-liuf/membre/1833-karine-abiven.html) et 
 [Gaël Lejeune](https://www.lejeunegael.fr/). 
 
@@ -34,6 +34,8 @@ France pendant la Fronde (1648-1653). Les premiers objectifs sont :
 
 Il s'agit finalement de proposer une réflexion épistémologique sur la nature des données en Sciences Humaines et Sociales : leur disponibilité, leur structuration, 
 leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité sur le TALN.
+
+Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition et l'exploitation des données textuelles numérisées - des imprimés « anciens ». Les questions de constitution de corpus numériques, de textualité mais aussi d'O.C.R. et de corpus bruités sont au cœur de mon travail. 
 
 
 ### Mes intérêts scientifiques
