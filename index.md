@@ -51,6 +51,8 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 
 ### Evenements
 
+- <b>« Questions de méthodes numériques pour les thèses en SHS : circulation des signes, circulation du sens » (Thomas Bottini et Virginie Julliard)</b>, Participant, 12/10/20, campus des Cordeliers, Paris
+- <b>Séminaire de Linguistique Computationnelle : « CNU et qualifications » (Karën Fort)</b>, Participant, 08/10/20, Serpente, Paris
 - <b>Séminaire OBVIL : « Humanités numériques » (Glenn Roe)</b>, Participant, 29/09/20, Serpente, Paris
 - <b>Masterclass « Communication Grand Public »</b>, Participant, 25/09/20, Espace des sciences Pierre-Gilles de Gennes, Paris
 - <b>Séminaire Linguistique Computationnelle : « Speed Dating de rentrée » </b>, Intervenant/Participant, 10/09/20, Serpente, Paris
