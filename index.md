@@ -51,6 +51,7 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 
 ### Evenements
 
+- <b>« Myriadisation de ressources linguistiques pour le TAL de langues non standardisées » (Alice Millour)</b>, Participant, 1/10/20, Serpente, Paris
 - <b>« Questions de méthodes numériques pour les thèses en SHS : circulation des signes, circulation du sens » (Thomas Bottini et Virginie Julliard)</b>, Participant, 12/10/20, campus des Cordeliers, Paris
 - <b>Séminaire de Linguistique Computationnelle : « CNU et qualifications » (Karën Fort)</b>, Participant, 08/10/20, Serpente, Paris
 - <b>Séminaire OBVIL : « Humanités numériques » (Glenn Roe)</b>, Participant, 29/09/20, Serpente, Paris
@@ -63,7 +64,7 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 - <b>RECITAL 2020 (asynchrone) : « Exploiter les modèles de langue pour évaluer la qualité des sorties d’OCR pour des documents du XVIIème siècle » (Jean-Baptiste Tanguy)</b>, Intervenant, 08/06/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « Il a cru j'étais un second choix » : analyse syntaxique et sociolinguistique des constructions [CV. Ø CV.] en français parlé contemporain » (Auphélie Ferreira)</b>, Participant, 28/05/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « HIPE – Shared Task, identification d’entités nommées dans des journaux historiques océrisés (adaptation de SEM)  » (Yoann Dupont)</b>, Participant, 14/05/20, Virtuel – COVID-19
-- <b>Séminaire Linguistique Computationnelle : « Knoledge Graph Embedding - RDF2Vec » (Vincent Lully)</b>, Participant, 07/05/20, Virtuel – COVID-19
+- <b>Séminaire Linguistique Computationnelle : « Knowledge Graph Embedding - RDF2Vec » (Vincent Lully)</b>, Participant, 07/05/20, Virtuel – COVID-19
 - <b>Séminaire Linguistique Computationnelle : « Visualisation du réseau sémantique des unités mono et polylexicales d’un dictionnaire électronique » (Lichao Zhu)</b>, Participant, 30/04/20, Virtuel – COVID-19
 - <b>DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 3/3 (Tian Tian et Yoann Dupont)</b>, Participant, 16/04/20, Virtuel – COVID-19
 - <b>DOJO Machine Learning : « Réseaux de neurones et Word2Vec » 2/3 (Tian Tian)</b>, Participant, 09/04/20, Virtuel – COVID-19
