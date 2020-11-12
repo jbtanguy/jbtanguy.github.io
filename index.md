@@ -51,6 +51,7 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 
 ### Evenements
 
+- <b>« Veille épidémiologique » (Gaël Lejeune)</b>, Participant, 12/11/20, Virtuel – COVID-19
 - <b>« Complexité des structures linguistiques, simplicité des mécanismes du langage » (Luigi Rizzi)</b>, Participant, 05/11/20, Virtuel – COVID-19
 - <b>« Myriadisation de ressources linguistiques pour le TAL de langues non standardisées » (Alice Millour)</b>, Participant, 1/10/20, Serpente, Paris
 - <b>« Questions de méthodes numériques pour les thèses en SHS : circulation des signes, circulation du sens » (Thomas Bottini et Virginie Julliard)</b>, Participant, 12/10/20, campus des Cordeliers, Paris
