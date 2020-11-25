@@ -29,13 +29,15 @@ Le travail commence par le rassemblement et la numérisation d'imprimés du XVII
 France pendant la Fronde (1648-1653). Les premiers objectifs sont :
 - d'acquérir les données textuelles de ces imprimés numérisés par OCR (<i>Optical Character Recognition</i>, ou <i>Reconnaissance Optique de Caractères</i> en français) ;
 - de les structurer dans une base de données tout en les augmentant de métadonnées (lemmatisation, POS-tagging et analyse morphologique) ;
-- d'exploirer ces nouveaux corpus numérique.
+- d'exploirer ces nouveaux corpus numériques.
 
 
-Il s'agit finalement de proposer une réflexion épistémologique sur la nature des données en Sciences Humaines et Sociales : leur disponibilité, leur structuration, 
-leur exploitation, leur interopérabilité mais aussi l'impact de leur qualité sur le TALN.
+Je cherche à proposer une réflexion épistémologique sur la nature des données en Sciences Humaines et Sociales : leur disponibilité, leur structuration, 
+leur exploitation, leur interopérabilité mais aussi l'impact de leur "qualité".
 
-Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition et l'exploitation des données textuelles numérisées - des imprimés « anciens ». Les questions de constitution de corpus numériques, de textualité mais aussi d'O.C.R. et de corpus bruités sont au cœur de mon travail. 
+Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition et l'exploitation des données textuelles numérisées - des imprimés « anciens ». Les questions de constitution de corpus numériques, de textualité mais aussi d'OCR et de corpus bruités sont au cœur de mon travail. 
+
+Il s'agit fondamentalement de rencontrer la notion de <i>bruit</i>, au plan définitionnel mais aussi dans ses propriétés, pour tenter d'en dresser un diagnostic et d'en comprendre les mécanismes sous-jacents.
 
 
 ### Mes intérêts scientifiques
