@@ -40,6 +40,7 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 
 ### Mes intérêts scientifiques
 
+- données bruitées
 - OCR
 - logométrie
 - langue non standard : impacts de la variation et du manque de ressources
@@ -51,6 +52,7 @@ Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition
 
 ### Evenements
 
+- <b>« L'écriture burlesque dans les "mazarinades" : un exemple d'exploration outillée de corpus océrisés »</b>, Intervenant, 25/11/20, Virtuel – COVID-19
 - <b>« Veille épidémiologique » (Gaël Lejeune)</b>, Participant, 12/11/20, Virtuel – COVID-19
 - <b>« Complexité des structures linguistiques, simplicité des mécanismes du langage » (Luigi Rizzi)</b>, Participant, 05/11/20, Virtuel – COVID-19
 - <b>« Myriadisation de ressources linguistiques pour le TAL de langues non standardisées » (Alice Millour)</b>, Participant, 1/10/20, Serpente, Paris
