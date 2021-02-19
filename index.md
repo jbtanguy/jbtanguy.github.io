@@ -54,6 +54,7 @@ Il s'agit fondamentalement de rencontrer la notion de <i>bruit</i>, au plan déf
 
 ### Evenements
 
+- <b>« Théorie de l’information »</b>, Intervenant, 18/02/21, Serpente, Paris
 - <b>« L'écriture burlesque dans les "mazarinades" : un exemple d'exploration outillée de corpus océrisés »</b>, Intervenant, 25/11/20, Virtuel – COVID-19
 - <b>« Veille épidémiologique » (Gaël Lejeune)</b>, Participant, 12/11/20, Virtuel – COVID-19
 - <b>« Complexité des structures linguistiques, simplicité des mécanismes du langage » (Luigi Rizzi)</b>, Participant, 05/11/20, Virtuel – COVID-19
