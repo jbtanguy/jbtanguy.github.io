@@ -53,7 +53,8 @@ Il s'agit fondamentalement de rencontrer la notion de <i>bruit</i>, au plan déf
 - Jean-Baptiste Tanguy. Exploiter des modèles de langue pour évaluer des sorties de logiciels d’OCR pour des documents français du XVIIe siècle. <i>6e conférence conjointe Journées d'Études sur la Parole (JEP, 31e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition)</i>, 2020, Nancy, France. pp.205-217. ⟨hal-02786201v2⟩
 
 ### Evenements
-
+- <b>« Reconnaissance d'entités nommées dans des textes de littérature française du 19ème : le poids du bruit ? » (Caroline Parfait)</b>, Participant, 18/03/21, Serpente, Paris
+- <b>NewsEye : Session 3 « Digitised Historical Material: Improving Data Quality »</b>, Participant, 17/03/21, Serpente, Paris
 - <b>« Théorie de l’information »</b>, Intervenant, 18/02/21, Serpente, Paris
 - <b>« L'écriture burlesque dans les "mazarinades" : un exemple d'exploration outillée de corpus océrisés »</b>, Intervenant, 25/11/20, Virtuel – COVID-19
 - <b>« Veille épidémiologique » (Gaël Lejeune)</b>, Participant, 12/11/20, Virtuel – COVID-19
