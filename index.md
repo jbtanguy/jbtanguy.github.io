@@ -48,11 +48,16 @@ Il s'agit fondamentalement de rencontrer la notion de <i>bruit</i>, au plan déf
 - langue non standard : impacts de la variation et du manque de ressources
 
 ### Mes publications
+#### Articles
 
 #### Actes de conférence
-- Jean-Baptiste Tanguy. Exploiter des modèles de langue pour évaluer des sorties de logiciels d’OCR pour des documents français du XVIIe siècle. <i>6e conférence conjointe Journées d'Études sur la Parole (JEP, 31e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition)</i>, 2020, Nancy, France. pp.205-217. ⟨hal-02786201v2⟩
+- Gabay, S., Clérice, T., Camps, J. B., Tanguy, J. B., & Gille-Levenson, M. (2020, October). Standardizing linguistic data: method and tools for annotating (pre-orthographic) French. In Proceedings of the 2nd International Conference on Digital Tools & Uses Congress (pp. 1-7).
+- Giguet, E., Lejeune, G., & Tanguy, J. B. (2020, December). Daniel@ FinTOC’2 Shared Task: Title Detection and Structure Extraction. In Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation (pp. 174-180).
+- TANGUY, Jean-Baptiste. Exploiter des modèles de langue pour évaluer des sorties de logiciels d’OCR pour des documents français du XVIIe siècle. <i>6e conférence conjointe Journées d'Études sur la Parole (JEP, 31e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition)</i>, 2020, Nancy, France. pp.205-217. ⟨hal-02786201v2⟩
+- Tellier, I., Hammouche, H., Cholvy, D., & Tanguy, J. B. Analyse d’opinions multi-aspects pour la recommandation fine de restaurants. CNIA & RJCIA 2018, 110.
 
 ### Evenements
+- <b>« Investing Dominant Word Order on Universal Dependencies with Graph Rewriting » (Hee-Soo)</b>, Participant, 15/04/21, Virtuel
 - <b>« Reconnaissance d'entités nommées dans des textes de littérature française du 19ème : le poids du bruit ? » (Caroline Parfait)</b>, Participant, 18/03/21, Serpente, Paris
 - <b>NewsEye : Session 3 « Digitised Historical Material: Improving Data Quality »</b>, Participant, 17/03/21, Serpente, Paris
 - <b>« Théorie de l’information »</b>, Intervenant, 18/02/21, Serpente, Paris
