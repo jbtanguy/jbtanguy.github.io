@@ -57,6 +57,7 @@ Il s'agit fondamentalement de rencontrer la notion de <i>bruit</i>, au plan déf
 - Tellier, I., Hammouche, H., Cholvy, D., & Tanguy, J. B. Analyse d’opinions multi-aspects pour la recommandation fine de restaurants. CNIA & RJCIA 2018, 110.
 
 ### Evenements
+- <b>« Clustering de textes pour l'extraction de néologismes : justification du coût de construction d'un petit corpus. »</b>, Participant, Virtuel, 20/05/21
 - <b>« Investing Dominant Word Order on Universal Dependencies with Graph Rewriting » (Hee-Soo)</b>, Participant, 15/04/21, Virtuel
 - <b>« Reconnaissance d'entités nommées dans des textes de littérature française du 19ème : le poids du bruit ? » (Caroline Parfait)</b>, Participant, 18/03/21, Serpente, Paris
 - <b>NewsEye : Session 3 « Digitised Historical Material: Improving Data Quality »</b>, Participant, 17/03/21, Serpente, Paris
