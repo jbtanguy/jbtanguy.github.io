@@ -25,19 +25,14 @@ Automatique des Langues Naturelles (TALN) et les Humanités Numériques (HN). El
 [Karine Abiven](http://www.iufrance.fr/les-membres-de-liuf/membre/1833-karine-abiven.html) et 
 [Gaël Lejeune](https://www.lejeunegael.fr/). 
 
-Le travail commence par le rassemblement et la numérisation d'imprimés du XVIIème siècle : les Mazarinades, publiées en 
-France pendant la Fronde (1648-1653). Les premiers objectifs sont :
-- d'acquérir les données textuelles de ces imprimés numérisés par OCR (<i>Optical Character Recognition</i>, ou <i>Reconnaissance Optique de Caractères</i> en français) ;
-- de les structurer dans une base de données tout en les augmentant de métadonnées (lemmatisation, POS-tagging et analyse morphologique) ;
-- d'exploirer ces nouveaux corpus numériques.
-
+Le travail commence par le rassemblement et la numérisation d'imprimés du XVIIème siècle : les mazarinades, parues en 
+France pendant la Fronde (1648-1653). 
+Ce projet tente de définir et d'étudier le concept de « bruit » dans les données textuelles océrisées, c'est-à-dire les textes résultats du processus d'OCR (reconnaissance optique de caractères). Il s'agit de constituer un corpus de textes (les mazarinades), de proposer des versions numériques de ces textes et d'étudier les données textuelles ainsi acquises (par OCR). Le « bruit » que ce processus d'océrisation implique ne rend pas impossible toute mesure ou étude de ces textes, ce que ce projet tente de démontrer. L'océrisation des collections numérisées est ici revendiquée en tant que moyen d'accélérer l'accessibilité aux textes, mais aussi leur exploitation tant par les chercheurs (de toute discipline) que par les utilisateurs des bibliothèques numériques (indexation, citations, etc.). 
 
 Je cherche à proposer une réflexion épistémologique sur la nature des données en Sciences Humaines et Sociales : leur disponibilité, leur structuration, 
 leur exploitation, leur interopérabilité mais aussi l'impact de leur "qualité".
 
 Des motivations patrimoniales aux usages en HN, je m'intéresse à l'acquisition et l'exploitation des données textuelles numérisées - des imprimés « anciens ». Les questions de constitution de corpus numériques, de textualité mais aussi d'OCR et de corpus bruités sont au cœur de mon travail. 
-
-Il s'agit fondamentalement de rencontrer la notion de <i>bruit</i>, au plan définitionnel mais aussi dans ses propriétés, pour tenter d'en dresser un diagnostic et d'en comprendre les mécanismes sous-jacents.
 
 
 ### Mes intérêts scientifiques
